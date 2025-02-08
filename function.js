@@ -1,4 +1,3 @@
-/* code by webdevtrick ( https://webdevtrick.com ) */
 function enableEditMode() {
     richTextField.document.designMode = "on";
   }
